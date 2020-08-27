@@ -21,7 +21,7 @@
 ## What's working
 
 - [x] Intel UHD630 (iGPU)
-- [x] AMD Radeon VII (dGPU)
+- [x] AMD Radeon Sapphire 5600 XT (dGPU)
 - [x] Audio Realtek ALCS1220A
 - [x] Intel I225-V 2.5Gb Ethernet
 - [x] Wi-Fi/BT (BCM94360CS)
