@@ -5,13 +5,10 @@
 ## Hardware
 
 * Motherboard: Asus ROG STRIX Z490-I
-    * Ethernet: Intel I225-V 2.5Gbit
-    * Wi-Fi/BT: Intel AX201NGW
-    * Audio: Realtek ALCS1220A
-* CPU: Intel i7 10700k
-* GPU: Intel UHD630 / AMD Radeon Sapphire 5600 XT
-* RAM: CORSAIR VENGEANCE LPX DDR4 3200 16GB(×1)
-* SSD: Corsair Force Series MP510 240GB NVMe M.2 2280 PCIe Gen 3.0 x4
+* CPU: Intel® Core™ i7-10700K
+* GPU: Sapphire Pulse Radeon RX 5600 XT 6GB DDR6
+* RAM: CORSAIR VENGEANCE LPX DDR4 2666 16GB(8x2)
+* SSD: Samsung 970 EVO Plus PCIe NVMe V-NAND M.2 2280 500GB
 
 ## Software
 
@@ -24,7 +21,6 @@
 - [x] AMD Radeon Sapphire 5600 XT (dGPU)
 - [x] Audio Realtek ALCS1220A
 - [x] Intel I225-V 2.5Gb Ethernet
-- [x] Wi-Fi/BT (BCM94360CS)
 - [x] USB
 - [x] Restart/Shutdown
 - [x] Sleep/Wake
