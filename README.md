@@ -2,12 +2,14 @@
 
 ![macOS-catalina](Resources/about-mac.png)
 
+![macOS-catalina](Resources/display.png)
+
 ## Hardware
 
 * Motherboard: Asus ROG STRIX Z490-I
 * CPU: Intel® Core™ i7-10700K
 * GPU: Sapphire Pulse Radeon RX 5600 XT 6GB DDR6
-* RAM: CORSAIR VENGEANCE LPX DDR4 2666 16GB(8x2)
+* RAM: Corsair DOMINATOR® PLATINUM RGB 32GB (2 x 16GB) DDR4 DRAM 3200MHz C16 CMT32GX4M2C3200C16
 * SSD: Samsung 970 EVO Plus PCIe NVMe V-NAND M.2 2280 500GB
 
 ## Software
@@ -17,7 +19,7 @@
 
 ## What's working
 
-- [x] Intel UHD630 (iGPU)
+- [x] Intel UHD630 (iGPU) Patched 4K 60hz
 - [x] AMD Radeon Sapphire 5600 XT (dGPU)
 - [x] Audio Realtek ALCS1220A
 - [x] Intel I225-V 2.5Gb Ethernet
