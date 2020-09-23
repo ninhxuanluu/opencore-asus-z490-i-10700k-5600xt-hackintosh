@@ -14,7 +14,7 @@
 
 ## Software
 
-* Bootloader: OpenCore 0.5.9
+* Bootloader: OpenCore 0.6.0
 * OS: macOS Catalina 10.15.6
 
 ## What's working
@@ -27,3 +27,19 @@
 - [x] Restart/Shutdown
 - [x] Sleep/Wake
 - [x] Power Management (Native support)
+### Note
+To prevent random freeze issue after boot, please disable two features bellow in your BIOS:
+* Turbo boost: Disabled
+* ASUS Multicore Enhancement: Disabled
+
+## Benchmark
+
+
+![macOS-catalina](Resources/cinebench.png)
+Cinebench
+
+![macOS-catalina](Resources/IntelPower.png)
+Intel power gadget
+
+## Dual monitor
+![macOS-catalina](Resources/dual.jpg)
