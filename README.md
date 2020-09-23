@@ -2,7 +2,6 @@
 
 ![macOS-catalina](Resources/about-mac.png)
 
-![macOS-catalina](Resources/display.png)
 
 ## Hardware
 
@@ -36,10 +35,12 @@ To prevent random freeze issue after boot, please disable two features bellow in
 
 
 ![macOS-catalina](Resources/cinebench.png)
+
 Cinebench
 
 ![macOS-catalina](Resources/IntelPower.png)
+
 Intel power gadget
 
 ## Dual monitor
-![macOS-catalina](Resources/dual.jpg)
+![macOS-catalina](Resources/display.png)
