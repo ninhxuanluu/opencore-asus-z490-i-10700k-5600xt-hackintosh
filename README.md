@@ -22,6 +22,7 @@
 - [x] AMD Radeon Sapphire 5600 XT (dGPU)
 - [x] Audio Realtek ALCS1220A
 - [x] Intel I225-V 2.5Gb Ethernet
+- [x] BCM94360CS wireless card with NVMe Adapter
 - [x] USB
 - [x] Restart/Shutdown
 - [x] Sleep/Wake
